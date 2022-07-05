@@ -1,0 +1,83 @@
+body{
+
+    background-color: rgb(85, 177, 239);
+}
+   
+h1{ 
+     background-color: rgb(70, 62, 181);
+    text-align: center;
+   text-rendering: optimizeSpeed;
+   font-size: 40px;
+    color:rgb(250, 249, 249);
+    padding:10px;
+    border-radius: 20px;
+    font-family:'tangerine',serif;
+    text-shadow: 4px 5px 6px rgb(3, 3, 2);
+}
+
+textarea{
+    box-shadow: 0 10 1px crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:6px;
+    border-width: 5px;
+    width:98%;
+    border-color:rgb(13, 13, 22);
+    border-radius: 20px;
+    background-image: linear-gradient(blue,rgb(205, 205, 237));
+    font-size:30px;
+}
+p{
+    text-align:center;
+    background-color: rgb(190, 190, 247);
+    margin:15px;
+    font-size:25px;
+    font-weight:bold;
+    border-radius: 20px;
+
+}
+label{
+    padding:60px;
+    font-size: 30px;
+
+}
+#container{
+    margin-left: 600px ;
+    
+    color: rgb(50, 91, 27);
+}
+.digit{
+    
+    font-size: 35px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 27px;
+    font-weight: bold;
+}
+#btn-container{
+    text-align: center;
+   
+    margin:5px;
+}
+.btn{
+    align-items: center;
+    padding: 7px 25px;
+    font-size: 15px;
+    margin:0px 0px;
+    color: aliceblue;
+    border: 0px;
+    cursor: pointer;
+}
+#start{
+   
+    margin-top: 20px;
+background-color: rgb(62, 118, 177);
+}
+#stop{
+  
+background-color: rgb(70, 70, 189);
+}
+#reset{
+    
+    background-color: rgb(38, 38, 80);
+}
